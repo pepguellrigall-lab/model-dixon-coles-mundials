@@ -26,7 +26,7 @@ WC_START_DATE = date(2026, 6, 11)
 MIN_TRAINING_DATE = date(2015, 1, 1)
 
 XI = 0.0018         
-LAMBDA_REG = 2.5    
+LAMBDA_REG = 2   
 MAX_GOALS = 10  
 
 GROUPS = {
