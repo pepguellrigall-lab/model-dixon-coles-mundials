@@ -24,7 +24,7 @@ RESULTS_CSV = SCRIPT_DIR / "results.csv"
 MIN_TRAINING_DATE = date(2015, 1, 1)
 START_WORLD_CUP_2022 = date(2022, 11, 20)
 XI = 0.0018
-LAMBDA_REG = 2.5
+LAMBDA_REG = 2
 MAX_GOALS = 10
 
 # Llista estricta dels 32 equips participants per accelerar l'entrenament
